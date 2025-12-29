@@ -36,7 +36,11 @@ Based on **Deep Learning** models and **Computer Vision** principles, this engin
 
 ## 📊 Sample Output (Simulation)
 
-> *[Placeholder for Heatmap Image]*
+> *## 📊 Sample Output (Simulation)
+
+![Kognitect Dashboard Analysis](dashboard-preview.jpg)
+
+> **Analysis Insight:** The engine identifies high fixation points (red zones) on the product packaging logo, confirming brand visibility, while providing real-time attention metrics via the dashboard sidebar.
 > *The engine identifies that 80% of user attention is focused on the primary CTA button, validating the design hypothesis.*
 
 ---
