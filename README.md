@@ -1,5 +1,3 @@
-#### 2. Repo: `kognitect-visual-attention-engine` İçin README
-
 # 👁️ Kognitect Visual Attention Engine
 
 **Version:** v1.2.0 (Internal Alpha)
