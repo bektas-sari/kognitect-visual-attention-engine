@@ -36,8 +36,6 @@ Based on **Deep Learning** models and **Computer Vision** principles, this engin
 
 ## 📊 Sample Output (Simulation)
 
-> *## 📊 Sample Output (Simulation)
-
 ![Kognitect Dashboard Analysis](dashboard-preview.jpg)
 
 > **Analysis Insight:** The engine identifies high fixation points (red zones) on the product packaging logo, confirming brand visibility, while providing real-time attention metrics via the dashboard sidebar.
